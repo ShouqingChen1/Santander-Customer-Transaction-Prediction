@@ -2,10 +2,10 @@
 Kaggle Competition notebooks
 
 Library Requirements
-matplotlib: 3.0.0
-pandas: 0.23.4
-numpy: 1.15.2
-lightgbm: 2.2.2
+1. matplotlib: 3.0.0
+2. pandas: 0.23.4
+3. numpy: 1.15.2
+4. lightgbm: 2.2.2
 
 Competition Website: https://www.kaggle.com/c/santander-customer-transaction-prediction/overview
 
