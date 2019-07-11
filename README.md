@@ -1,11 +1,14 @@
 # Santander-Customer-Transaction-Prediction
+
 Kaggle Competition notebooks
 
-Library Requirements
-1. matplotlib: 3.0.0
-2. pandas: 0.23.4
-3. numpy: 1.15.2
-4. lightgbm: 2.2.2
+Description:
+1. Data preprocesssing:  Remove the fake test data, merge the training data and real test data
+2. The "Magic" Feature: FREQUENCY ENCODE
+3. Training models: Use 200 separate LGBM models
+4. Blending: Ensemble 200 Models with LR
+5. Submission
+
 
 Competition Website: https://www.kaggle.com/c/santander-customer-transaction-prediction/overview
 
