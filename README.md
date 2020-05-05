@@ -3,7 +3,7 @@
 Notebooks
 Description:
 1. Data preprocesssing:  Remove the fake test data, merge the training data and real test data
-2. The "Magic" Feature: FREQUENCY ENCODE
+2. Feature engineering: FREQUENCY ENCODE
 3. Training models: Use 200 separate LGBM models
 4. Blending: Ensemble 200 Models with LR
 5. Submission
