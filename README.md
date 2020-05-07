@@ -5,7 +5,7 @@ Description:
 1. Data preprocesssing:  Remove the fake test data, merge the training data and real test data
 2. Feature engineering: FREQUENCY ENCODE
 3. Training models: Use 200 separate LGBM models
-4. Blending: Ensemble 200 Models with LR
+4. Postprocessing: Ensemble 200 Models with LR
 5. Submission
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Another_new_Santander_bank_-_geograph.org.uk_-_1710962.jpg/640px-Another_new_Santander_bank_-_geograph.org.uk_-_1710962.jpg)
